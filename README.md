@@ -1,3 +1,1 @@
-# Portfolio
-# Portfolio
-# Portfolio
+# Small projects written for class.
