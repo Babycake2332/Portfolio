@@ -1,1 +1,1 @@
-# Small projects written for class.
+# Personal collection of small one-file projects.
